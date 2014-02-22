@@ -9,6 +9,8 @@ It activates automatically after coinmarketcap.com is loaded and remembers your 
 
 Currently, only supported browser is firefox, but I'm planning to port it to chrome.  
 
+To support/donate with BTC: 1N2QU4qh3BozUa1FqEZvKWQp6TMXUWkioE
+
 ![alt tag](https://raw.github.com/piotrpluta/coinmarketcap-addon/master/readme-images/all_shown.png)
 
 ![alt tag](https://raw.github.com/piotrpluta/coinmarketcap-addon/master/readme-images/selected_shown.png)
